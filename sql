@@ -9,4 +9,4 @@ select * from table 8
 select * from table 9
 select * from table 10
 select * from table 11
-
+select * from table 12

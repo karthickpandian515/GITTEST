@@ -7,3 +7,5 @@ select * from table 6
 select * from table 7
 select * from table 8
 select * from table 9
+select * from table 10
+
